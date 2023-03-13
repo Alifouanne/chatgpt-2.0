@@ -1,4 +1,12 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# ChatGPT clone 2.0
+ChatGPT clone 2.0 is an upgraded version of the original ChatGPT clone, developed using Next.js and OpenAI API. The new version includes additional functionality that allows users to select OpenAI models, enhancing the conversational experience.
+
+The application is built using Next.js 13, which features a new server component and supports TypeScript for static type checking. Firebase is used for storage and NextAuth library is used for Google authentication, making the app secure and user-friendly.
+
+The app also uses React Hot Toast library for beautiful toast notifications and React Select library for a cool select component. SWR library is used for efficient data fetching, while Tailwind CSS is used for styling and making the website responsive for all devices.
+
+Overall, ChatGPT clone 2.0 is a robust and feature-rich conversational application that utilizes cutting-edge technologies to provide an immersive experience for users.
+# This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
